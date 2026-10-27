@@ -249,7 +249,7 @@ CONFIG_HEADER='# gstack configuration — edit freely, changes take effect on ne
 #                           #   Invalid values are REJECTED (value kept).
 # test_backend: local       # local | ubicloud — where the full unit and E2E
 #                           #   tiers run (plan E2). The gstack-doctor cores row
-#                           #   recommends ubicloud under 8 cores; ubicloud
+#                           #   recommends ubicloud under 8 cores; ubicloud 
 #                           #   needs UBICLOUD_API_KEY and scripts/ubicloud/.
 #                           #   Invalid values are REJECTED (value kept).
 # ship_greptile_early: true # true | false — when the repo uses Greptile, /ship
